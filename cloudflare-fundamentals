@@ -1,0 +1,19 @@
+# Cloudflare Fundamentals
+
+## Overview
+Cloudflare is a global CDN and security platform that helps websites load faster and stay secure.
+
+## Key Services
+- CDN (Content Delivery Network)
+- DDoS Protection
+- DNS Management
+- Serverless Workers
+- Zero Trust Security
+
+## Beginner Tips
+- Start with Workers for small automation
+- Use Page Rules to optimize caching
+- Always enable SSL/TLS
+
+## Learn More
+[Official Cloudflare Docs](https://developers.cloudflare.com/)
